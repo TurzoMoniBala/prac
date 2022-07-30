@@ -20,3 +20,9 @@ h1:hover {
 .golden-place-color {
   color: #ffd700;
 }
+.imran-img {
+  cursor: pointer;
+}
+.imran-img:hover {
+  visibility: hidden;
+}
