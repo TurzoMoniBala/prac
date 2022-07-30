@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+  cursor: pointer;
+  transition: 5s;
+}
+.ok {
+  text-decoration: none;
+}
+.ok:hover {
+  color: black;
+  align-items: center;
+}
+h1:hover {
+  transition: 5s;
+  color: darkblue;
+  align-items: center;
+  text-align: center;
+  text-decoration: ;
+}
+.golden-place-color {
+  color: #ffd700;
+}
